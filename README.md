@@ -2,4 +2,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shadowleaderjordanzo&theme=dracula&type=png)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowleaderjordanzo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowleaderjordanzo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

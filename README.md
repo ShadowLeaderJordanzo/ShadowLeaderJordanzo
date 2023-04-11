@@ -3,3 +3,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=shadowleaderjordanzo&theme=dracula&type=png)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowleaderjordanzo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shadowleaderjordanzo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
